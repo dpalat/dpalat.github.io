@@ -12,3 +12,7 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+.vagrant
+Thumbs.db
+ehthumbs.db
+beautiful-jekyll-theme-*.gem
