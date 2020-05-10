@@ -1,22 +1,25 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Diegote
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Diego Palat
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  DEV Blogs:
+    - Jose Cuellar: "https://www.josecuellar.net/"
+    - Developerro: "https://www.developerro.com/"
+    - Robert Bermejo: "https://www.robertbermejo.com/"
+    - Luisdi: "https://www.luisdi.dev/"
+    - Gisella: "https://www.returngis.net/"
+  LinkedIn : "https://www.linkedin.com/in/diegopalat"
 
 # --- Logo --- #
 
@@ -38,8 +41,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "diegopalat@gmail.com.com"
-#  facebook: deanattali
+  email: "diegopalat@gmail.com"
+#  facebook: dpalat
   github: dpalat
   twitter: diegotepalat
   rss: true
@@ -47,16 +50,16 @@ social-network-links:
   linkedin: diegopalat
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  snapchat: dpalat
+#  instagram: dpalat
+#  youtube: user/dpalat
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
+#  steam: dpalat
+#  twitch: dpalat
+#  yelp: dpalat
+#  telegram: dpalat
+#  calendly: dpalat
 
 # --- General options --- #
 
